@@ -1,4 +1,4 @@
-# SnapchatDesktop
+# Snapchat Desktop for MacOS
 A nativefier port of web.snapchat.com for MacOS
 
 ### How to install?
